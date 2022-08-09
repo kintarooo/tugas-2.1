@@ -68,10 +68,10 @@ switch (true) {
         grade = 'C';
         break
     case nilai <= 80:
-        grade = 'B+';
+        grade = 'B';
         break
     case nilai <= 90:
-        grade = 'B';
+        grade = 'B+';
         break
     case nilai <= 100:
         grade = 'A';
